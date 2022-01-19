@@ -1,6 +1,6 @@
-A simple blog created with React and utilizes JSON server for its database.
+<h2>A simple blog created with React.js and utilizes JSON server for its database.<h2>
 
-To run this application:
+To run this application on your local machine:
 1. Clone the react-blog folder
 2. Open Terminal and path to the react-blog folder
 3. Type 'npm run start' to start the local server

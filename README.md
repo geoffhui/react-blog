@@ -1,4 +1,4 @@
-<h2>A simple blog created with React.js and utilizes JSON server for its database.<h2>
+<h2>A simple blog created with React.js and utilizes JSON server for its database.</h2>
 
 To run this application on your local machine:
 1. Clone the react-blog folder
